@@ -1,2 +1,3 @@
 aula de github exemplo pull 2023
 Hello World 2023!
+Exemplo de Conflitos no git
